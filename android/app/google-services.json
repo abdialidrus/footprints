@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412460933202",
+    "project_id": "footsteps-306d6",
+    "storage_bucket": "footsteps-306d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412460933202:android:1cc6c994d7916cb94cff8b",
+        "android_client_info": {
+          "package_name": "com.example.footsteps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWGj9Jtq2IOSXi0hsmymjd83ziodEHfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
